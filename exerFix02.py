@@ -34,7 +34,7 @@ seguida, calcule o fatorial desse número usando um loop do tipo while. Ao final
 programa deverá exibir o valor do fatorial do número informado pelo usuário e término
 do programa.
 """
-# Solicita um número inteiro positivo
+# #Solicita um número inteiro positivo
 # numero = int(input("Digite um número inteiro positivo: "))
 
 # # Validação simples
